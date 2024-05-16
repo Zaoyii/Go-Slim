@@ -1,2 +1,2 @@
 # Go-Slim
-减肥软件
+Android端减肥应用APP
